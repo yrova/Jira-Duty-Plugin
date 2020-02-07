@@ -27,13 +27,7 @@ public class InstallEventListener implements InitializingBean, DisposableBean {
 
     @JiraImport
     private final EventPublisher eventPublisher;
-
     private final PluginDataManager pluginDataManager;
-
-    @JiraComponent
-    private final Pl
-
-
 
     @Autowired
     public InstallEventListener(EventPublisher eventPublisher, PluginDataManager pluginDataManager) {
