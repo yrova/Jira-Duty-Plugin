@@ -8,7 +8,7 @@ Glad you asked. Regular work duties are usually regulated and tracked but what a
 
 ## Required functionality
 
-   ##### *Upon new installation of the plugin  (DONE)
+   #### Upon new installation of the plugin  (DONE)
    - create a unique ID
    - persist it so that it can be used in other components
    - make an HTTP request to send it to an [external service](https://postman-echo.com)
@@ -30,7 +30,6 @@ Glad you asked. Regular work duties are usually regulated and tracked but what a
 * [atlassianjdk](https://developer.atlassian.com/server/framework/atlassian-sdk/set-up-the-atlassian-plugin-sdk-and-build-a-project/) - Hello World tutorial for a Jira plugin
 * [SAL](
 https://developer.atlassian.com/server/framework/atlassian-sdk/storing-plugin-settings/) - Shared Access Layer
-* https://comsysto.github.io/kitchen-duty-plugin-for-atlassian-jira/tutorial/01-introduction/ - Good tutorial jira server plugins in general
 
 
 
