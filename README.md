@@ -8,7 +8,7 @@ Glad you asked. Regular work duties are usually regulated and tracked but what a
 
 ## Required functionality
 
-  * Upon new installation of the plugin  (DONE)
+   ##### * Upon new installation of the plugin  (DONE)
    - create a unique ID
    - persist it so that it can be used in other components
    - make an HTTP request to send it to an [external service](https://postman-echo.com)
