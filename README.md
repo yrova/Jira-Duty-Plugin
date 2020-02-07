@@ -1,6 +1,6 @@
-# Jira Server App
+# Jira Duty Plugin
 
-Simple Jira Server Plugin 
+Jira Duty Plugin 
 
 ## Required functionality
 
