@@ -6,7 +6,7 @@ Jira Duty Plugin for Atlassian JIRA® Server
 
 Glad you asked. Regular work duties are usually regulated and tracked but what about all the duties people forget about. Im talking KITCHEN duty! Why is the dish-washer full of dirty dishes but not turned on? Why are there no clean dishes? With this plugin you can assign tasks and hold the office knave accountable for their transgressions. 
 
-## Required functionality
+## Implemented Functionality
 
    #### Upon new installation of the plugin  (DONE)
    - create a unique ID
