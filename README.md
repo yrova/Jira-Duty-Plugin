@@ -13,13 +13,6 @@ Glad you asked. Regular work duties are usually regulated and tracked but what a
    - persist it so that it can be used in other components
    - make an HTTP request to send it to an [external service](https://postman-echo.com)
    - erase persisted unique ID upon plugin uninstallation
-  * Webworkaction and HTML view
-  * User Search Rest Resource
-  * User Search JS Controller
-  * Duty planning REST Resource 
-  * Duty Planning JS Controller
-  * Story workshop
-  * Duty Overview Page
   
 ## Built With
 
